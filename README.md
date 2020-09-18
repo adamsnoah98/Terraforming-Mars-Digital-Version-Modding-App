@@ -3,6 +3,8 @@ A flutter app to schedule and programmatically mod specific cards into the digit
 
 Currently this working prototype is a basic MVP, additional bugs probably exist, and I have plans for multiple additional features. Check assets/static-text/info/upcoming.txt for a list.
 
+This is an intro project to learn flutter (and so dart); thus, I still have some state management to clean up.
+
 The app is currently only implemented for Android and tested on limited devices, though most of the code is platform agnostic.
 
 App screenshots:
