@@ -1,0 +1,1 @@
+This app enables you to choose, modify, and dynamically load specific cards into a TerraForming Mars solo run. Swipe right to begin selecting cards, then use the play button to initialize the loading service.

@@ -1,0 +1,3 @@
+Much like selecting cards, you are able to choose which corporation to play with from in this app.
+When you start the loader, you will be prompted to choose a corporation from the base game or you may keep the save file's default.
+Make sure a save file exists before proceeding to corp selection.

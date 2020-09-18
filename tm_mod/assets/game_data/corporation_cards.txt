@@ -1,0 +1,1 @@
+[["Credicor", 8], ["Ecoline", 11], ["Helion", 3], ["Mining Guild", 10], ["Interplanetary Cinematics", 7], ["Inventrix", 1], ["Phobolog", 2], ["Tharsis Republic", 12], ["Thorgate", 9], ["United Nations Mars Initiative", 6], ["Teractor", 4], ["Saturn Systems", 5]]

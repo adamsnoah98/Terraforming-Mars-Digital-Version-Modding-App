@@ -1,0 +1,4 @@
+Once you have selected your cards and initiated the loader, enter the TM game app and play.
+At the start of each generation restart the game to update the save file, then pull down the notification bar and use the pass icon to load your next generation of cards before returning to the game.
+
+Unfortunately due to the way TM digital version handles saves, the game must be restarted currently after each load. I hope to find a way around this irksome behavior.

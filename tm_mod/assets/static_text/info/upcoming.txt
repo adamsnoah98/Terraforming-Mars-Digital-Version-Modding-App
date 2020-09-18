@@ -1,0 +1,10 @@
+I plan to add or improve several features, including:
+
+- Simulated card draw actions
+- Card preview screens
+- Cash/Resource infusion
+- Improved graphics and animations
+- Automatic Save file creation
+- Load into specified save files
+- Option to save backups at any time
+- Persistent state restarting the app
