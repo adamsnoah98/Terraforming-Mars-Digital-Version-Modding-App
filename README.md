@@ -6,3 +6,7 @@ Currently this working prototype is a basic MVP, additional bugs probably exist,
 The app is currently only implemented for Android and tested on limited devices, though most of the code is platform agnostic.
 
 App screenshots:
+
+<img src="https://github.com/adamsnoah98/Terraforming-Mars-Digital-Version-Modding-App/blob/master/tmprojectscreenshots/Screenshot_20200918-003456.png" height=600/>
+<img src="https://github.com/adamsnoah98/Terraforming-Mars-Digital-Version-Modding-App/blob/master/tmprojectscreenshots/Screenshot_20200918-003510.png" height=600/>
+<img src="https://github.com/adamsnoah98/Terraforming-Mars-Digital-Version-Modding-App/blob/master/tmprojectscreenshots/Screenshot_20200918-003639.png" width=600/>
